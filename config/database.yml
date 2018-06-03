@@ -1,4 +1,4 @@
-<% project_name = 'tic-tac-toe-backend-api' %>
+<% project_name = 'tic-tac-toe-api' %>
 
 default: &default
   adapter: postgresql
